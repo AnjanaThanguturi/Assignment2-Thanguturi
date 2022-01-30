@@ -1,1 +1,3 @@
-
+# Anjana Thanguturi
+I am from Andhra Pradesh, India. I completed my Bachelors in Electronic and Communication Engineering at Anil Neerukonda Institute of Technology and Sciences, Visakhapatnam. I worked as a Software Developer in Wipro Ltd for 2 years. With this course, I am looking forward to learn new concepts which will help me to enhance my career and reach my goals in software industry. I would love to watch thriller/ horror movies and explore new places or things.<br>
+Here is the link for my picture: [My Picture](Anjana.jpeg) 
