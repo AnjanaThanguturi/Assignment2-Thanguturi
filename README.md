@@ -37,5 +37,3 @@ Below are the step by step directions from airport to Bawarchi.
     * Chicken Tikka Kebab
     * Tandoori Chicken
     * Chicken Hakka Noodles
-<br>
-Here is the link to know more about me: [About me](AboutMe.md) 
