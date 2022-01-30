@@ -29,3 +29,11 @@ Below are the step by step directions from airport to Bawarchi.
 19. Use the left two lanes to turn it left to stay on Metcalf Avenue and travel for 0.4 mile.
 20. Turn right and travel for 200 feet and continue straight for 0.1 mile.
 21. Turn left and travel for 300 feet and enjoy your Biriyani.
+* Recommended Food Items
+    * Vijayawada Spl Chicken Biriyani (BL).
+    * Temper Chicken Dum Biriyani
+    * Natukodi Fry Biriyani
+    * Gongura Chicken Biriyani
+    * Chicken Tikka Kebab
+    * Tandoori Chicken
+    * Chicken Hakka Noodles
