@@ -50,3 +50,9 @@ Below is the table which specifies details of atleast 4 sports/activities. It co
 | Foot Ball | Kansas City | $150 |
 | Base Ball | Kansas City | $300 |
 | Cricket | Kansas City | $350 |
+***
+### Quotes
+> Live as if you were to die tomorrow. Learn as if you were to live forever - *Mahatma Gandhi* <br>
+> Either you run the day, or the day runs you - *Jim Rohn* <br>
+> Believe and act as if it were impossible to fail - *Charles Kettering* <br>
+> The difference between ordinary and extraordinary is that little extra - *Jimmy Johnson* <br>
