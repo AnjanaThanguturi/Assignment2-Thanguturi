@@ -39,3 +39,14 @@ Below are the step by step directions from airport to Bawarchi.
     * Chicken Hakka Noodles
 
 Here is the link to know more about me: [About Me](AboutMe.md) 
+***
+### Sports/Activities that I recommend
+Below is the table which specifies details of atleast 4 sports/activities. It contains name of the sport, location where anyone can participate, expected cost for paying personal equipment if needed.
+| Name | Location | Expected Amount |
+| :---------: | :--------:  | :---: |
+| Badminton | Kansas City | $200 |
+| Basket Ball | Kansas City | $100 |
+| Volley Ball | Kansas City | $100 |
+| Foot Ball | Kansas City | $150 |
+| Base Ball | Kansas City | $300 |
+| Cricket | Kansas City | $350 |
